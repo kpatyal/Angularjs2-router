@@ -1,1 +1,1 @@
-AngularJs 2 Router
+Example of router in AngularJs 2 ..!!
