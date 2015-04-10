@@ -1,0 +1,6 @@
+<h1>Home Page!</h1>
+<label> Enter your name</label>:<br/>
+<input type="text" name="name" ng-model="home.name">
+<p>Hello <b>{{home.name}}</b>, This is how router in AngularJs 2 work !!</p>
+
+<p><a router-link="second({ controllerId:1})">Second Controller</a> | <a router-link="first">First Controller</a> | <a router-link="user">User view</a></p>
